@@ -3,6 +3,8 @@
 
 ![netfinder](https://user-images.githubusercontent.com/29865797/30962913-44fe3c4e-a454-11e7-9ff8-453144c45303.jpg)
 
+NetFinder uses system´s default browser to show results. When you have chosen an engine and added keywords you want to search, then verify by pressing Enter/Return key. After this the system´s default browser will open showing the results.
+
 NetFinder supports Google, Yahoo, Privatelee, Wolfram Alpha, Youtube and StackoverFlow searches. If you are using multiple search keywords use +  between them. For example: hello world becomes hello+world.
 
 ___________
