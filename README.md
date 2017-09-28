@@ -10,6 +10,15 @@ ___________
 NetFinder for Windows v.1 Copyright (c) 2017 JJ Posti <techtimejourney.net> This program comes with ABSOLUTELY NO WARRANTY; for details see: http://www.gnu.org/copyleft/gpl.html. This is free software, and you are welcome to redistribute it under
 GPL Version 2, June 1991″)
 
+
+<b>About project’s structure:</b>
+
+dist folder has .jar files. These are the executables you want to run.
+
+src folder has project sources.
+
+nbproject folder has Netbeans project files.
+
 <b>Dependencies/Building:</b>
 
 The program needs Java JRE 1.8 or equivalent to run.
